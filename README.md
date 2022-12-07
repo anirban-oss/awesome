@@ -43,3 +43,7 @@ https://duckduckgo.com/?t=ffab&q=hyperledger+mentorship+program&atb=v344-1&ia=we
 https://duckduckgo.com/?t=ffab&q=open+mainframe+project+mentorship+program&atb=v344-1&ia=web      
 https://duckduckgo.com/?q=fast+ai+international+fellowship&t=ffab&atb=v344-1&ia=web     
 https://duckduckgo.com/?t=ffab&q=rgsoc&atb=v344-1&ia=web
+
+most important:
+https://openai.com/careers/
+https://openai.com/blog/openai-residency/
