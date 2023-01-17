@@ -44,7 +44,15 @@ https://duckduckgo.com/?t=ffab&q=open+mainframe+project+mentorship+program&atb=v
 https://duckduckgo.com/?q=fast+ai+international+fellowship&t=ffab&atb=v344-1&ia=web     
 https://duckduckgo.com/?t=ffab&q=rgsoc&atb=v344-1&ia=web
            
-https://accelerator.github.com/               
+https://accelerator.github.com/ 
+
+ETHIndia Fellowship
+https://eif3.devfolio.co/overview
+
+Polygon Fellowship
+https://pf-2022.devfolio.co/overview
+
+https://huggingface.co/blog/fellowship      
 
 most important:    
 https://openai.com/careers/        
